@@ -123,7 +123,8 @@ revenue_forecast/
 ├── scripts/                      # collect_weather, build_feature_store, train, run_eda
 ├── data/                         # git-ignored; schema in data/README.md
 ├── models/                       # git-ignored checkpoints
-├── reports/                      # summary PDF + generated figures
+├── reports/                      # summary PDF including generated figures
+├── results/                      # sample result images
 ├── pyproject.toml                # installable package (pip install -e .)
 ├── requirements.txt
 └── .env.example                  # KMA_SERVICE_KEY, VWORLD_API_KEY
