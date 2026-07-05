@@ -13,7 +13,7 @@ LightGBM / CatBoost · Optuna · Prophet · statsmodels · pandas
 > Built during an ML engagement at a carsharing company. The transaction data is
 > proprietary and **not** included; this repository contains the code, the
 > modelling methodology, and a summary of results
-> (`reports/Review_of_Revenue_Forecasting_Model.pdf`).
+> (`reports/Review_of_Revenue_Forecasting_Model_Filtered.pdf`).
 
 ## Objective
 
