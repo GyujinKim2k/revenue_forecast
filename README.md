@@ -3,7 +3,7 @@
 A production-oriented machine-learning system that forecasts **Revenue Per
 Vehicle (RPV)** for a carsharing fleet at the granularity of
 `spot × vehicle_type`, at daily and weekly horizons, using **a compact ~0.42 M-parameter Temporal Fusion
-Transformer (TFT) (~1.7 MB)** with quantile regression. The forecasts feed downstream
+Transformer (TFT)** with quantile regression. The forecasts feed downstream
 decisions: vehicle-allocation optimization, dynamic pricing / coupon strategy,
 and "what-if" scenario analysis.
 
